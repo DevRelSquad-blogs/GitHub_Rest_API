@@ -49,3 +49,5 @@ Run the script to create an issue in a repository:
 ```bash
 python issue.py
 ```
+
+If you would like more information on managing repositories, please refer to the practical guide in this article.
