@@ -4,7 +4,7 @@
 
 This project provides a simple Python script to interact with the **GitHub REST API** for managing repositories and issues. You can create, list, and update repositories, as well as create and manage issues in your GitHub account.
 
-For additional insights and practical use cases, please see this article on GitHub Rest API.
+For additional insights and practical use cases, please see this article on [GitHub Rest API](https://www.devrelsquad.com/post/how-to-use-github-rest-api-to-manage-repositories-and-issues).
 
 
 ## Setup
@@ -50,4 +50,4 @@ Run the script to create an issue in a repository:
 python issue.py
 ```
 
-If you would like more information on managing repositories, please refer to the practical guide in this article.
+If you would like more information on managing repositories, please refer to the practical guide in this [article](https://www.devrelsquad.com/post/how-to-use-github-rest-api-to-manage-repositories-and-issues).
